@@ -5,4 +5,4 @@ I'm passionate about all computer science: from hardware to software, yes on my 
 I would like to release other open source projects and materials, including school notes and summaries.
 
 ⚡ Fun fact
-- i love cats, donuts, mathematical and engineering meme
+- i love cats, mathematical and engineering meme
